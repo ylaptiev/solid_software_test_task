@@ -6,5 +6,5 @@ A new Flutter project.
 
 ### Before launching a project run next commands:
 #### flutter pub get
-#### flutter pub run build_runner build -d /n 
-#### flutter gen-l10n /n
+#### flutter pub run build_runner build -d 
+#### flutter gen-l10n
