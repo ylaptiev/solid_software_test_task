@@ -1,0 +1,6 @@
+{
+    "helloThere": "Hello there!",
+    "@helloThere": {
+        "type": "text"
+    }
+}
